@@ -8,7 +8,7 @@ Maintained by: vslrzy
 ## Changes & Improvements
 
 - Added device-level methods for enrolling and managing fingerprints by **specific user ID** and **finger index**.
-- Implemented controlled **wake-for-enroll** process that waits for user input and tracks success or failure.
+- Implemented controlled **startEroll** process that waits for user input and tracks success or failure.
 - Built-in **timeout** handling for enroll operations (no more hanging connections).
 - Added **enroll result detection**, reporting clear success or failure states.
 - Added ability to **delete a specific finger** of a user directly from the device.

@@ -1,6 +1,6 @@
 {
   "name": "zk-advanced-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Advanced version of zkteco-js with new features and fixes.",
   "main": "index.js",
   "scripts": {
