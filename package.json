@@ -1,0 +1,65 @@
+{
+  "name": "zk-advanced-js",
+  "version": "1.0.2",
+  "description": "Advanced version of zkteco-js with new features and fixes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\"",
+    "semantic-release": "semantic-release --branches master",
+    "commit": "git-cz"
+  },
+  "repositoryUrl": "https://github.com/vslrzy/zk-advanced-js.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vslrzy/zk-advanced-js.git"
+  },
+  "keywords": [
+    "ip",
+    "libs",
+    "coding",
+    "device",
+    "zkteco",
+    "address",
+    "realtime",
+    "realtime",
+    "real-time",
+    "biometric",
+    "atendance",
+    "zkteco-js",
+    "zkteco-npm",
+    "zkteco-node",
+    "biometric attendance",
+    "biometric attendance device"
+  ],
+  "author": "vslrzy",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Coding Libs",
+      "email": "codinglibs4u@gmail.com"
+    },
+    {
+      "name": "vslrzy",
+      "email": "vslrzy@gmail.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/vslrzy/zk-advanced-js.git/issues"
+  },
+  "homepage": "https://github.com/vslrzy/zk-advanced-js.git#readme",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "semantic-release": "^24.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "links": {
+    "original": "https://www.npmjs.com/package/zkteco-js"
+  }
+}
