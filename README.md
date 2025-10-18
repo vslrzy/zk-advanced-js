@@ -1,4 +1,4 @@
-# zkteco-js-advanced
+# zk-advanced-js
 
 An improved and extended version of [zkteco-js](https://www.npmjs.com/package/zkteco-js) (original repo: [coding-libs/zkteco-js](https://github.com/coding-libs/zkteco-js))
 
